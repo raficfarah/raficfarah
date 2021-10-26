@@ -6,7 +6,7 @@ https://www.linkedin.com/in/rafic-farah/
 #
 
 ### (eng) Welcome to my GitHub. 👋
-My name is Rafic Farah. I live in Rio de Janeiro and I am a Python|Django developer.
+My name is Rafic Farah. I live in Rio de Janeiro and I'm a Python|Django developer.
 #### Feel free to talk to me on LinkedIn:
 https://www.linkedin.com/in/rafic-farah/
 
