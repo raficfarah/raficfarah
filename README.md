@@ -1,4 +1,14 @@
-### Hi there 👋
+### (pt-🇧🇷) Bem vindo ao meu GitHub. 👋
+
+Me chamo Rafic Farah. Moro no estado do Rio de Janeiro e sou um desenvolvedor Python e Django.
+#### Sinta-se a vontade para falar comigo através do LinkedIn:
+https://www.linkedin.com/in/rafic-farah/
+#
+
+### (eng) Welcome to my GitHub. 👋
+My name is Rafic Farah. I live in Rio de Janeiro and I am a Python|Django developer.
+#### Feel free to talk to me on LinkedIn:
+https://www.linkedin.com/in/rafic-farah/
 
 <!--
 **raficfarah/raficfarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
